@@ -1,5 +1,10 @@
 # Architecture-Utils
 
+
+# Lambda to Kappa
+https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/
+
+
 # Kappa architecure 
 https://milinda.pathirage.org/kappa-architecture.com/
 
