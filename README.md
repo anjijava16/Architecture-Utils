@@ -13,3 +13,8 @@ https://milinda.pathirage.org/kappa-architecture.com/
 https://medium.com/@anishekagarwal/kappa-architecture-in-practice-b0a4870f3da6
 
 
+## Architecure 
+  https://eng.uber.com/uber-big-data-platform/
+  https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196
+
+
