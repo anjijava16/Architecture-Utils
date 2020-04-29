@@ -16,5 +16,9 @@ https://medium.com/@anishekagarwal/kappa-architecture-in-practice-b0a4870f3da6
 ## Architecure 
   https://eng.uber.com/uber-big-data-platform/
   https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196
+  
+  
+  https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo
+https://github.com/mrbajaj/system-design
 
 
