@@ -18,7 +18,10 @@ https://medium.com/@anishekagarwal/kappa-architecture-in-practice-b0a4870f3da6
   https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196
   
   
-  https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo
+https://www.youtube.com/watch?time_continue=1&v=UzLMhqg3_Wc&feature=emb_logo
 https://github.com/mrbajaj/system-design
+https://www.youtube.com/watch?v=fMZMm_0ZhK4
+
+https://www.youtube.com/watch?v=JQDHz72OA3c
 
 
