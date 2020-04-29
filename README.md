@@ -23,5 +23,6 @@ https://github.com/mrbajaj/system-design
 https://www.youtube.com/watch?v=fMZMm_0ZhK4
 
 https://www.youtube.com/watch?v=JQDHz72OA3c
+https://www.quora.com/profile/Narendra-Gowda
 
 
