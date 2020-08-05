@@ -26,6 +26,23 @@ https://www.youtube.com/watch?v=JQDHz72OA3c
 https://www.quora.com/profile/Narendra-Gowda
 
 
+
+
+# Apache Icebreg vs apache hudi vs Delta Lake 
+https://medium.com/@domisj/comparison-of-big-data-storage-layers-delta-vs-apache-hudi-vs-apache-iceberg-part-1-200599645a02
+https://www.slideshare.net/databricks/a-thorough-comparison-of-delta-lake-iceberg-and-hudi
+
+
+
+# Apche arrow:
+https://www.slideshare.net/databricks/improving-python-and-spark-performance-and-interoperability-with-apache-arrow-with-julien-le-dem-and-li-jin
+
+
+# Timeseries database spark (Flint)
+https://databricks.com/blog/2018/09/11/introducing-flint-a-time-series-library-for-apache-spark.html
+https://www.slideshare.net/SparkSummit/time-series-analysis-with-spark-by-sandy-ryza
+
+
 # Awesome Big Data
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
